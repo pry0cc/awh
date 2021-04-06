@@ -1,7 +1,7 @@
-# Awesome Wireguard Helper
+# Awesome Wireguard Helper
 I was finding it really annoying trying to automate wireguard configurations. So I made this. 
 
-## Usage
+## Usage
 Just run these commands on an Ubuntu 20.04 server with Wireguard installed and you'll soon have yourself a Wireguard server :) 
 ```
 git clone https://github.com/pry0cc/awh
